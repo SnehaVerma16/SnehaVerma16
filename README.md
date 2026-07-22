@@ -27,11 +27,7 @@ Aspiring AI & Machine Learning Engineer |  Python Developer | Building AI-powere
 
 ✔ End-to-End Machine Learning Projects
 
-✔ Flask-based Web Applications
-
 ✔ Clean & Well-Documented Code
-
-✔ Frontend Development Projects
 
 ✔ Continuous Learning & Project-Based Development
 
@@ -69,14 +65,6 @@ Python • Flask • HTML • CSS
 🏠 House Rent Predictor
 > Estimates house rent using Linear Regression.
 Python • Flask
-
-🎓 Student Dashboard
-> Responsive dashboard with attendance and task management.
-HTML • CSS • JavaScript • Bootstrap
-
-🛒 E-Commerce Website
-> Frontend shopping interface with responsive design.
-
 
 ---
 
