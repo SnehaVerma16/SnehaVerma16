@@ -1,47 +1,47 @@
 <h1 align="center">Hi 👋, I'm Sneha Verma</h1>
 
 <h3 align="center">
-Aspiring Machine Learning Engineer | Python Developer | Building AI-powered Web Applications | Learning DSA | Deploying projects with Flask & Render
+Aspiring AI & Machine Learning Engineer |  Python Developer | Building AI-powered Web Applications | Learning DSA | Deploying projects with Flask & Render
 </h3>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Aspiring+AI+%26+Machine+Learning+Engineer;Building+AI-Powered+Applications;Python+%7C+Flask+Developer;Exploring+Intelligent+Systems;Learning+DSA+in+C%2B%2B" />
+</p>
+
 ---
-## 💡 What You'll Find Here
-
-✔ Production-ready Machine Learning projects
-
-✔ Clean and well-documented code
-
-✔ Flask-based web applications
-
-✔ Continuous learning through real-world projects
-
-✔ End-to-End ML Deployment on Render
 
 ## 👩‍💻 About Me
 
-🎓 B.Tech Computer Science Student
+- 🎓 B.Tech Computer Science Student
+- 🤖 Passionate about Machine Learning and AI 
+- 🐍 Building end-to-end Machine Learning applications using Python & Flask
+- 🌐 Deploying web applications on Render
+- 💻 Currently strengthening DSA in C++
+- ⚡ Interested in AI, Backend Development and Intelligent Systems
+- 💡 Passionate about solving real-world problems using Machine Learning.
+- 🎯 Goal: Become AI & Machine Learning Engineer at a product-based company
 
-💡 Passionate about solving real-world problems using Machine Learning.
+---
 
-🔭 Currently building end-to-end ML applications with Flask.
+## 💡 What You'll Find Here
 
-🌱 Learning Data Structures & Algorithms in C++ for technical interviews.
+✔ End-to-End Machine Learning Projects
 
-⚡ Interested in AI, Backend Development and Intelligent Systems.
+✔ Flask-based Web Applications
 
-🎯 Goal: Become a Machine Learning Engineer at a product-based company.
+✔ Clean & Well-Documented Code
+
+✔ Frontend Development Projects
+
+✔ Continuous Learning & Project-Based Development
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
-
-Python • C++ • HTML5 • CSS3 • JavaScript
-
-### Frameworks
-
-Flask • Bootstrap
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,flask,git,github,vscode"/>
+</p>
 
 ### Machine Learning
 
@@ -53,11 +53,10 @@ Render • GitHub
 
 ### Tools
 
-Git • VS Code • Google Colab
-
+Git • vS Code • Google Colab
 ---
 
-## 💼 Featured Projects
+## 🏆 Featured Projects
 
 🩺 Diabetes Prediction System
 > Predicts diabetes risk using Machine Learning.
@@ -78,34 +77,34 @@ HTML • CSS • JavaScript • Bootstrap
 🛒 E-Commerce Website
 > Frontend shopping interface with responsive design.
 
+
 ---
 
 ## 📈 Current Focus
 
-✔ Data Structures & Algorithms
+✔️ Data Structures & Algorithms
 
-✔ Machine Learning
+✔️ Machine Learning
 
-✔ Flask Development
+✔️ Flask Development
 
-✔ Model Deployment
+✔️ Model Deployment
 
-✔ Writing Clean Code
+✔️ Writing Clean Code
 
-✔ Open Source Contributions
+✔️ Open Source Contributionsurce
 
 ---
 
-## ⚡ Fun Facts
+## 📊 GitHub Stats
 
-☕ I enjoy turning datasets into useful applications.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SnehaVerma16&theme=tokyonight&hide_border=true"/>
+</p>
 
-🚀 I believe learning by building projects is the fastest way to grow.
-
-💻 Currently improving problem-solving through daily DSA practice.
+---
 
 ## 📫 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/sneha-verma-071b04322
-
-⭐ Thanks for visiting my profile!
+- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+- 📧 Email: YOUR_EMAIL
