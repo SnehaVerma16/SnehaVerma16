@@ -95,4 +95,4 @@ Python • Flask
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
-- 📧 Email: YOUR_EMAIL
+  
