@@ -53,6 +53,9 @@ Git • vS Code • Google Colab
 ---
 
 ## 🏆 Featured Projects
+ResumeMatchAI
+>AI-powered ATS resume analyzer with skill gap analysis and personalized learning roadmap
+Python • HTML • CSS • JS • Render 
 
 🩺 Diabetes Prediction System
 > Predicts diabetes risk using Machine Learning.
