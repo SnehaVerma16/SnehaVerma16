@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sneha Verma</h1>
 
 <h3 align="center">
-Aspiring AI & Machine Learning Engineer |  Python Developer | Building AI-powered Web Applications | Learning DSA | Deploying projects with Flask & Render
+Aspiring AI & Machine Learning Engineer |  Python Developer | Building AI-powered Web Applications  | Deploying projects with Flask & Render
 </h3>
 
 <p align="center">
@@ -49,13 +49,13 @@ Render • GitHub
 
 ### Tools
 
-Git • vS Code • Google Colab
+Git • vS Code • Google Colab •render •streamlit
 ---
 
 ## 🏆 Featured Projects
 ResumeMatchAI
 >AI-powered ATS resume analyzer with skill gap analysis and personalized learning roadmap
-Python • HTML • CSS • JS • Render 
+Python • HTML • CSS • JS • Render
 
 🩺 Diabetes Prediction System
 > Predicts diabetes risk using Machine Learning.
@@ -67,8 +67,7 @@ Python • Flask • HTML • CSS
 
 🏠 House Rent Predictor
 > Estimates house rent using Linear Regression.
-Python • Flask
-
+Python • Flask 
 ---
 
 ## 📈 Current Focus
@@ -81,7 +80,7 @@ Python • Flask
 
 ✔️ Model Deployment
 
-✔️ Writing Clean Code
+✔️ End to End projects
 
 ✔️ Open Source Contributionsurce
 
